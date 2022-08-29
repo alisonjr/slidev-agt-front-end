@@ -5,7 +5,7 @@ layout: intro
 logoHeader: 'https://core-test.agrotools.com.br/terramatrix/images/agt.png'
 website: 'agrotools.com.br'
 handle: 'alisonjr'
-introImage: 'https://lh3.googleusercontent.com/a-/AFdZuco5FFJSGg8gbqr7TpQDMsJAM55Peoo-lyFn1WNo=s432-p-rw-no'
+introImage: '/images/Developer activity-amico.svg'
 ---
 
 # Front end presente e futuro
